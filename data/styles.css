@@ -10,14 +10,13 @@
   line-height:normal;
   text-transform:none;
 }
-.link_button {
-  color:#169BD5;
-}
 .box_1 {
 }
 .box_2 {
 }
-.image {
+._形状 {
+}
+._图片_ {
 }
 .heading_1 {
   font-family:'ArialMT', 'Arial';
@@ -67,7 +66,12 @@
 .paragraph {
   text-align:left;
 }
-.sticky_1 {
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
   text-align:left;
 }
 .form_hint {
@@ -75,6 +79,36 @@
 }
 .form_disabled {
 }
+.flow_shape {
+}
+._线段 {
+}
 .icon {
+}
+._表单提示 {
+  color:#999999;
+}
+._文本段落 {
+  text-align:left;
+}
+._表单禁用 {
+}
+._形状1 {
+}
+.box_3 {
+}
+.ellipse {
+}
+.label1 {
+  font-size:12px;
+  text-align:left;
+}
+.line {
+}
+.arrow {
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
